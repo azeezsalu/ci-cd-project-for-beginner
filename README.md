@@ -1,1 +1,1 @@
-# CI-CD-Project-For-Beginner
+# ci-cd-project-for-beginner
